@@ -1,0 +1,66 @@
+.navbar {
+    background: #ebc139;
+    border-radius: 0px;
+}
+
+.navbar-brand {
+    color: #FFFFFF;
+}
+
+.navbar-head>a:hover {
+    background: blue;
+}
+
+.nav-link {
+    color: #FFFFFF;
+    padding: 5px;
+}
+
+.nav-item {
+    list-style: none;
+}
+
+.nav-link:hover {
+    color: #FFFFFF;
+}
+
+.nav-link:focus {
+    background: rgb(255, 253, 255);
+
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+}
+
+.dropdown-item {
+    background: purple;
+    color: yellow;
+}
+
+.dropdown-menu {
+    background: brown;
+}
+
+.dropdown-item:hover {
+    background: orange;
+    color: blue;
+}
+
+.dropdown-item:focus {
+    background: red;
+    color: green;
+}
+
+.dropdown-divider {
+    background: green;
+    color: red;
+}
+
+.dropdown-header {
+    background: lightgrey;
+    color: brown;
+}
+
+.navbar-toggler {
+    background: lightblue;
+    color: red;
+}
