@@ -6,8 +6,6 @@ Assignment One
 
 ## Built With
 
-Acknowledging Our Lands was built using these technologies:
-
 - HTML
 - Bootstrap
 
